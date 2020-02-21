@@ -9,7 +9,7 @@
 #{coins} You need to use EconomyAPI to show money!
 
 #Text to show on the server in the custom bar!
-text: "&9Custom&cHud &6Make by &bSuperKali{line}&3TPS&8:&6 {tps} &9Load&8:&4 {load}&r{line}&eXYZ&8:&2 {x} {y} {z}&r"
+text: "&b&lIGN: &c&l{name}\n&b&lOnline: &c&l{players}&6/&c{max_players}{line}&b&lTPS: &c&l{tps}&6/&c20{line}&b&lPING: &c&l{ping}&a&lMS”
 
 #Time that the message is updated, P.S Leave the default 5!
 time: 5
